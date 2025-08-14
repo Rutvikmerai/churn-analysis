@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+.DS_Store
+
+# Environments
+.env
+.venv
+venv/
+env/
+.python-version
+
+# Data (keep a README in these folders; don't commit raw/clean data by default)
+data/raw/
+data/clean/
+!data/raw/README.md
+!data/clean/README.md
+
+# Reports/outputs
+reports/*.html
+reports/*.pdf
+reports/*.pptx
+
+# OS files
+Thumbs.db

@@ -1,0 +1,19 @@
+original,sanitized_for_mysql
+RowNumber,RowNumber
+CustomerId,CustomerId
+Surname,Surname
+CreditScore,CreditScore
+Geography,Geography
+Gender,Gender
+Age,Age
+Tenure,Tenure
+Balance,Balance
+NumOfProducts,NumOfProducts
+HasCrCard,HasCrCard
+IsActiveMember,IsActiveMember
+EstimatedSalary,EstimatedSalary
+Exited,Exited
+Complain,Complain
+Satisfaction Score,Satisfaction_Score
+Card Type,Card_Type
+Point Earned,Point_Earned
