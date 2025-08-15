@@ -14,8 +14,7 @@ Can we predict churn with enough accuracy to target retention offers?
 
 Data
 
-Source: Kaggle – replace with your dataset link
-Example placeholder: https://www.kaggle.com/<owner>/<dataset-slug>
+Source: Kaggle – https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
 
 Raw file in repo structure: data/raw/Customer-Churn-Records.csv
 
